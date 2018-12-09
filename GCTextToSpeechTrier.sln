@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCTextToSpeechTrier", "GCTextToSpeechTrier.csproj", "{D5A42C53-4BF8-4DE3-8335-3E8E74C2E697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A42C53-4BF8-4DE3-8335-3E8E74C2E697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A42C53-4BF8-4DE3-8335-3E8E74C2E697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A42C53-4BF8-4DE3-8335-3E8E74C2E697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A42C53-4BF8-4DE3-8335-3E8E74C2E697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBAD514F-CD27-4934-9F4F-D9356ED456E0}
+	EndGlobalSection
+EndGlobal
